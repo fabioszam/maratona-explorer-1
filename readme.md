@@ -1,6 +1,6 @@
 <picture>
   <p align="center">
-    <img style="max-width: 100%;" src="https://i.ibb.co/HHrSXdZ/maratona.png">
+    <img style="max-width: 100%;" src="https://i.postimg.cc/V6h14c9j/maratona.png">
   </p>
 </picture>
 
